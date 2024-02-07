@@ -9,8 +9,13 @@
 
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&pause=1000&color=000000&background=BBFFFB&random=false&width=435&lines=%E3%83%BE(%EF%BC%BE-%EF%BC%BE)%E3%83%8E+Hi+I'm+STAR-MD;A+Multi-fuctional+WhatsApp+Bot;BY+EXCEL+AMADI" alt="Typing SVG" /></a>
 
 
+
+
+
+......... 
 
 
 <p align="center">To learn how to get session id scroll to end of page..
