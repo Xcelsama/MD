@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=100&pause=1000&color=000000&background=C0BCBC00&multiline=true&random=false&width=435&lines=Hi+I'm+STAR-MD;A+Multi-device+WhatsApp+Bot;By+Excel+Amadi" alt="Typing SVG" /></a>
 
 `
 
