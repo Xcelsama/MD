@@ -1,3 +1,9 @@
+
+<img src="https://i.imgur.com/FX2S9eI.jpg" alt="Image">
+```
+
+
+
 It seems there might be an issue with displaying the image. Let's try fixing it by updating the HTML code. Here's the corrected version:
 
 ```html
