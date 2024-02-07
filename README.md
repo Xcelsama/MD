@@ -1,4 +1,18 @@
+It seems there might be an issue with displaying the image. Let's try fixing it by updating the HTML code. Here's the corrected version:
 
+```html
+❍ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKᑌ
+
+If you don't have an account on Heroku, [create one here](https://signup.heroku.com/).
+
+Now Deploy:
+
+[![DEPLOY](https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/xcelsama/STAR-MD)
+
+Thanks for all your support 💪
+```
+
+This should properly display the text and the "DEPLOY" badge with the correct link.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+STAR-MD................+;A+Multi-fuctional+WhatsApp+Bot;+++++BY+EXCEL+AMADI" alt="Typing SVG" /></a>
 
