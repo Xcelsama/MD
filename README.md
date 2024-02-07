@@ -1,4 +1,37 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=100&pause=1000&color=000000&background=C0BCBC00&multiline=true&random=false&width=435&lines=Hi+I'm+STAR-MD;A+Multi-device+WhatsApp+Bot;By+Excel+Amadi" alt="Typing SVG" /></a>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+STAR-MD................+;A+Multi-fuctional+WhatsApp+Bot;+++++BY+EXCEL+AMADI" alt="Typing SVG" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+..
+......<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=100&pause=1000&color=000000&background=C0BCBC00&multiline=true&random=false&width=435&lines=Hi+I'm+STAR-MD;A+Multi-device+WhatsApp+Bot;By+Excel+Amadi" alt="Typing SVG" /></a>
 
 `
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+riot&pause=1000&color=000000&background=BBFFFB&random=false&width=435&lines=%E3%83%BE(%EF%BC%BE-%EF%BC%BE)%E3%83%8E+Hi+I'm+STAR-MD;A+Multi-fuctional+WhatsApp+Bot;BY+EXCEL+AMADI" alt="Typing SVG" /></a>
