@@ -1,6 +1,5 @@
 Apologies for the misunderstanding. To display the video link as a code block, you can use Markdown syntax like this:
 
-markdown
 [![Video](https://telegra.ph/file/570c7638d5532b624740e.mp4)](https://telegra.ph/file/570c7638d5532b624740e.mp4)
 
 
