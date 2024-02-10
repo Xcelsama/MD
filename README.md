@@ -1,7 +1,7 @@
 To display the video link in code format without it being clickable, you can simply wrap the link in backticks (\`) like this:
 
 ```
-`https://telegra.ph/file/570c7638d5532b624740e.mp4`
+(https://telegra.ph/file/570c7638d5532b624740e.mp4) 
 ```
 [![EXCEL](https://i.imgur.com/4Z8BDHx.png)](https://wa.me/2347045035241)
 
@@ -76,7 +76,7 @@ This should properly display the text and the "DEPLOY" badge with the correct li
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&pause=1000&color=000000&background=BBFFFB&random=false&width=435&lines=%E3%83%BE(%EF%BC%BE-%EF%BC%BE)%E3%83%8E+Hi+I'm+STAR-MD;A+Multi-fuctional+WhatsApp+Bot;BY+EXCEL+AMADI" alt="Typing SVG" /></a>
 
 
-
+6
 
 
 ......... 
