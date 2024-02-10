@@ -1,4 +1,8 @@
+To display the video link in code format without it being clickable, you can simply wrap the link in backticks (\`) like this:
 
+```
+`https://telegra.ph/file/570c7638d5532b624740e.mp4`
+```
 [![EXCEL](https://i.imgur.com/4Z8BDHx.png)](https://wa.me/2347045035241)
 
 
