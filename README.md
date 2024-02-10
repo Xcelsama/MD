@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/FX2S9eI.jpg" alt="Image">
 ```
-
+https://telegra.ph/file/570c7638d5532b624740e.mp4
 
 
 It seems there might be an issue with displaying the image. Let's try fixing it by updating the HTML code. Here's the corrected version:
@@ -84,7 +84,7 @@ This should properly display the text and the "DEPLOY" badge with the correct li
 
 <p align="center">
   <a href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p">
-    <img alt="Excel-MD V2" height="300" src="https://i.imgur.com/oNckzkC.jpg">
+    <img alt="Excel-MD V2" height="300" src="https://telegra.ph/file/570c7638d5532b624740e.mp4">
   </a>
 </p>
    <p align="center">
