@@ -1,3 +1,12 @@
+
+Sure, here's the video link in code format using HTML `<video>` tag:
+
+```html
+<video controls>
+  <source src="https://telegra.ph/file/570c7638d5532b624740e.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+```
 To display the video link in code format without it being clickable, you can simply wrap the link in backticks (\`) like this:
 
 ```
