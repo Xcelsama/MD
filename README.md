@@ -1,3 +1,15 @@
+
+Sure, here's the HTML code to embed the video directly:
+
+```html
+<video width="320" height="240" controls>
+  <source src="https://telegra.ph/file/570c7638d5532b624740e.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+```
+
+This will embed the video directly, and users will be able to play it directly within the webpage.
+
 Apologies for the misunderstanding. To display the video link as a code block, you can use Markdown syntax like this:
 
 [![Video](https://telegra.ph/file/570c7638d5532b624740e.mp4)](https://telegra.ph/file/570c7638d5532b624740e.mp4)
