@@ -1,4 +1,10 @@
+Apologies for the misunderstanding. To display the video link as a code block, you can use Markdown syntax like this:
 
+```markdown
+[![Video](https://telegra.ph/file/570c7638d5532b624740e.mp4)](https://telegra.ph/file/570c7638d5532b624740e.mp4)
+```
+
+This will not make it clickable, but it will still display as a code block.
 Sure, here's the video link in code format using HTML `<video>` tag:
 
 html
